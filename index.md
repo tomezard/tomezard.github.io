@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to an in-development new website
 
-You can use the [editor on GitHub](https://github.com/tomezard/tomezard.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+I'll be gradually transitioning the [older version](http://fusionecology.org/FusionEcology/index.html) here for smoother integration.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
