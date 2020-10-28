@@ -1,3 +1,7 @@
+layout: page
+title: "people"
+permalink: /people/
+
 ##A Lab Group
 
 - Anieke
