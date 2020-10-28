@@ -1,8 +1,6 @@
-Anieke
-Lorna
-
-Alex
-
-Alex
-
-Laura
+- Anieke
+- Alex
+- Alex
+- Chloe
+- Laura
+- Lorna
