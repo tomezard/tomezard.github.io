@@ -2,5 +2,5 @@
 
 Diverse.
 
-!(_1JB7741_thumb.jpg)
+![A single planktonic foraminifer](_1JB7741_thumb.jpg)
 
