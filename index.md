@@ -4,7 +4,7 @@ This website is under development. I'll be gradually transitioning the [older ve
 
 You can also see my [official University of Southampton page](https://www.southampton.ac.uk/oes/about/staff/te1e12.page). In time, you will be able to read about [the awesome people I work with](https://tomezard.github.io/team) and [our research interests](https://tomezard.github.io/research).
 
-## Lab Values
+## Our Lab Values
 Who we are:
 - We celebrate diversity in all its forms.
 - We bring together scientists of different backgrounds and support individuals who wish to branch out into new disciplines.
