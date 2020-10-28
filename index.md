@@ -1,5 +1,3 @@
-### [Research](https://tomezard.github.io/research)
-
 # Interdisciplinary evolutionary ecology at the University of Southampton
 
 This website is under development. I'll be gradually transitioning the [older version](http://fusionecology.org/FusionEcology/index.html) here if I can work out how. 
