@@ -1,3 +1,5 @@
-layout: page
-title: "people"
-permalink: /people/
+Anieke
+Lorna
+Alex
+Alex
+Laura
