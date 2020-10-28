@@ -2,3 +2,6 @@ theme: jekyll-theme-minimal
 
 title: [Fusion Ecology]
 description: [Ecology; evolution; mathematics; statistics; systematics; geochemistry; computer vision.]
+
+github:
+  is_project_page: false
