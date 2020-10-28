@@ -1,10 +1,10 @@
 ## Yes
 
--Anieke
--Alex
--Alex
--Chloe
--Laura
-1. Lorna
+- Anieke
+- Alex
+- Alex
+- Chloe
+- Laura
+- Lorna
 
 
