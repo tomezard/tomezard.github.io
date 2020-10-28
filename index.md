@@ -3,7 +3,6 @@
 This website is under development. I'll be gradually transitioning the [older version](http://fusionecology.org/FusionEcology/index.html) here if I can work out how. You can also see my [official University of Southampton page](https://www.southampton.ac.uk/oes/about/staff/te1e12.page) and [the awesome people I work with](https://tomezard.github.io/people).
 
 ## Lab Values
-
 Who we are:
 - We celebrate diversity in all its forms.
 - We bring together scientists of different backgrounds and support individuals who wish to branch out into new disciplines.
