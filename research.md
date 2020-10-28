@@ -2,5 +2,5 @@
 
 Diverse.
 
-![](_1JB7741_thumb.jpg)
+!(_1JB7741_thumb.jpg)
 
