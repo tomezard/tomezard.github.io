@@ -1,4 +1,4 @@
-## Yes
+## People
 
 - Anieke
 - Alex
