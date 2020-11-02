@@ -1,7 +1,8 @@
 ## People
 
 
-[![Tom](/images/tom_thumbnail.jpg)](https://www.southampton.ac.uk/oes/about/staff/te1e12.page "Official University Page")
+[![Tom](/images/tom_thumbnail.jpg)](https://www.southampton.ac.uk/oes/about/staff/te1e12.page "Official University Page") [![Tom](/images/tom_thumbnail.jpg)](https://www.southampton.ac.uk/oes/about/staff/te1e12.page "Official University Page")
+
 
 <!--- then keep all similar images on the same line --->
 
