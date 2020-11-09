@@ -1,4 +1,4 @@
-# Interdisciplinary evolutionary ecology at the University of Southampton
+# Fusion Ecology
 
 This website is under development. I'll be gradually transitioning the [older version](http://fusionecology.org/FusionEcology/index.html) here if I can work out how. 
 
