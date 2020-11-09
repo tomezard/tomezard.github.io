@@ -2,7 +2,7 @@
 
 
 [![](/images/anieke_thumbnail.png)](https://www.southampton.ac.uk/oes/about/staff/jfab1c17.page "Anieke Brombacher Post-Doctoral Research Fellow") 
-[![](/images/tom_thumbnail.png)](https://www.southampton.ac.uk/oes/about/staff/te1e12.page "Tom Ezard PI") 
+[![](/images/tom_thumbnail.jpeg)](https://www.southampton.ac.uk/oes/about/staff/te1e12.page "Tom Ezard PI") 
 [![](/images/lorna_thumbnail.png)](https://www.southampton.ac.uk/oes/postgraduate/research_students/lk2u16.page "Lorna Kearns PhD Student") 
 [![](/images/anh_thumbnail.png)](https://www.southampton.ac.uk/oes/postgraduate/research_students/anh1n18.page "Alex Nicol-Harper PhD Student") 
 [![](/images/asb_thumbnail.png)](https://www.southampton.ac.uk/oes/about/staff/cjsb1c17.page "Alex Searle-Barnes Research Technician") 
