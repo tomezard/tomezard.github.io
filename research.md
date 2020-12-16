@@ -1,5 +1,9 @@
 # Research Interests
-We are interested in how the structure of populations and communities interacts with environmental changes to determine ecological and evolutionary dynamics. Our interests are necessarily diverse but group within three core areas. Recent projects have been supported by [NERC](https://nerc.ukri.org/), [BBSRC](https://bbsrc.ukri.org/) and [Wellcome](https://wellcome.org/).
+We are interested in how the structure of populations and communities interacts with environmental changes to determine ecological and evolutionary dynamics. 
+
+Recent projects have been supported by [NERC](https://nerc.ukri.org/), [BBSRC](https://bbsrc.ukri.org/) and [Wellcome](https://wellcome.org/).
+
+Our interests are necessarily diverse but group within three core areas. 
 
 ## The bridge from micro- to macroevolution 
 The emergence of new species is controlled by the link between environmental cues and organismal responses during life, but the contrasting temporal and biological scales involved create major problems for empirical study. As a consequence, the role of developmental plasticity during the emergence of new species is poorly understood. The University of Southampton has a [cluster of research activity](https://www.southampton.ac.uk/life-sciences/living-systems/evolution/index.page#related_projects) in this area. 
