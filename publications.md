@@ -20,7 +20,8 @@ Names in bold types indicate lab members for the project.
 - **Nicol-Harper A., Dooley C.A.**, Packman D., Mueller, M., Bijak, J., Hodgson, D.J., Townley S. & **Ezard T.H.G.** (2018) [Inferring transient dynamics of human populations from non-normality metrics](https://doi.org/10.1007/s10144-018-0620-y). *Popul. Ecol.* 60, 1.
 
 # 2017
-- Edgar, K.M., Hull, P.M. & Ezard, T.H.G. (2017) Evolutionary history biases inferences of ecology and environment from δ13C but not δ18O values. Nature Comms doi: 10.1038/s41467-017-01154-7. R code and data compilations on FigShare.
+- Edgar, K.M., Hull, P.M. & **Ezard, T.H.G.** (2017) [Evolutionary history biases inferences of ecology and environment from δ13C but not δ18O values](https://doi.org/10.1038/s41467-017-01154-7). *Nature Comms*  
+  - [R code and data compilations on FigShare](https://doi.org/10.6084/m9.figshare.5048854.v1).
 - Pigeon, G., Ezard, T.H.G., Festa-Bianchet, M., Coltman, D.W., & Pelletier, F. (2017) Fluctuating effects of genetic and plastic changes in body mass on population dynamics in a large herbivore. Ecology 98, 2456-2467. doi: 10.1002/ecy.1940
 - Brombacher, A., Wilson, P.A., Bailey, I. & Ezard, T.H.G. (2017) The breakdown of static and evolutionary allometries during climate upheaval. American Naturalist 190, 350-362. doi: 10.1086/692570. Data available on Dryad. Charles Downie Award 2017 for “best & most significant” micropalaeontogical paper.
 - Brombacher, A., Wilson, P.A. & Ezard, T.H.G. (2017) Calibration of the repeatability of foraminiferal test size and shape measures with recommendations for future use. Mar. Micropal. 133, 21-27. doi: 10.1016/j.marmicro.2017.05.003
