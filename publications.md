@@ -20,18 +20,21 @@ Names in bold types indicate lab members for the project.
 - **Nicol-Harper A., Dooley C.A.**, Packman D., Mueller, M., Bijak, J., Hodgson, D.J., Townley S. & **Ezard T.H.G.** (2018) [Inferring transient dynamics of human populations from non-normality metrics](https://doi.org/10.1007/s10144-018-0620-y). *Popul. Ecol.* 60, 1.
 
 # 2017
-- Edgar, K.M., Hull, P.M. & **Ezard, T.H.G.** (2017) [Evolutionary history biases inferences of ecology and environment from δ13C but not δ18O values](https://doi.org/10.1038/s41467-017-01154-7). *Nature Comms*  
+- Edgar, K.M., Hull, P.M. & **Ezard, T.H.G.** (2017) [Evolutionary history biases inferences of ecology and environment from δ13C but not δ18O values](https://doi.org/10.1038/s41467-017-01154-7). *Nature Comms* 8, 1106.
   - [R code and data compilations on FigShare](https://doi.org/10.6084/m9.figshare.5048854.v1).
-- Pigeon, G., Ezard, T.H.G., Festa-Bianchet, M., Coltman, D.W., & Pelletier, F. (2017) Fluctuating effects of genetic and plastic changes in body mass on population dynamics in a large herbivore. Ecology 98, 2456-2467. doi: 10.1002/ecy.1940
-- Brombacher, A., Wilson, P.A., Bailey, I. & Ezard, T.H.G. (2017) The breakdown of static and evolutionary allometries during climate upheaval. American Naturalist 190, 350-362. doi: 10.1086/692570. Data available on Dryad. Charles Downie Award 2017 for “best & most significant” micropalaeontogical paper.
-- Brombacher, A., Wilson, P.A. & Ezard, T.H.G. (2017) Calibration of the repeatability of foraminiferal test size and shape measures with recommendations for future use. Mar. Micropal. 133, 21-27. doi: 10.1016/j.marmicro.2017.05.003
-- McDonald, J.L., Franco, M., Townley, S., Ezard, T.H.G., Jelbert, K. & Hodgson, D.J. (2017) Divergent demographic strategies of plants in variable environments. Nature Ecol. & Evol. 1, 0029. doi:10.1038/s41559-016-0029.
-- Rillo, M.C., Whittaker, J., Ezard, T.H.G., Purvis, A., Henderson, A. S., Stukins, S. & Miller, C.G. (online). The unknown planktonic foraminiferal pioneer Henry A. Buckley and his collection at The Natural History Museum, London. J. Foram. Res.. doi: 10.1144/jmpaleo2016-020.
+- **Pigeon, G., Ezard, T.H.G.**, Festa-Bianchet, M., Coltman, D.W., & Pelletier, F. (2017) [Fluctuating effects of genetic and plastic changes in body mass on population dynamics in a large herbivore](https://doi.org/10.1002/ecy.1940). *Ecology* 98, 2456-2467.
+- **Brombacher, A.**, Wilson, P.A., Bailey, I. & **Ezard, T.H.G.** (2017) [The breakdown of static and evolutionary allometries during climate upheaval](https://doi.org/10.1086/692570). *Amer Nat* 190, 350. 
+  - Data available on Dryad. 
+  - Charles Downie Award 2017 for “best & most significant” micropalaeontogical paper.
+- **Brombacher, A.**, Wilson, P.A. & **Ezard, T.H.G.** (2017) [Calibration of the repeatability of foraminiferal test size and shape measures with recommendations for future use](https://doi.org/10.1016/j.marmicro.2017.05.003). *Mar. Micropal.* 133, 21. 
+- McDonald, J.L., Franco, M., Townley, S., **Ezard, T.H.G.**, Jelbert, K. & Hodgson, D.J. (2017) [Divergent demographic strategies of plants in variable environments](https://doi.org/10.1038/s41559-016-0029). *Nature Ecol. & Evol.* 1, 0029.
+- **Rillo, M.C.**, Whittaker, J., **Ezard, T.H.G.**, Purvis, A., Henderson, A. S., Stukins, S. & Miller, C.G. (2017). [The unknown planktonic foraminiferal pioneer Henry A. Buckley and his collection at The Natural History Museum, London](https://doi.org/10.1144/jmpaleo2016-020). *J. Foram. Res.* 36, 191.
 
 # 2016
-- Cooke, R.S.C., Woodfine, T., Petretto, M. & Ezard, T.H.G. (2016) Resource partitioning between ungulate populations in arid environments. Ecol. Evol. 6, 6354-6365. doi: 10.1002/ece3.2218.
-- Ezard, T.H.G. & Purvis, A. (2016) Environmental changes define ecological limits to species richness and the mode of macroevolutionary competition. Ecology Letters. 19, 899-906. doi: 10.1111/ele.12626.
-- Ezard, T.H.G., Quental, T.B., & Benton, M.B. (2016) The challenges to inferring the regulators of biodiversity in deep time. Phil. Trans. Roy. Soc. B. 371, 20150216. doi:10.1098/rstb.2015.0216. Introduction to our Theme Issue on The Regulators of Biodiversity in Deep Time.
+- **Cooke, R.S.C.**, Woodfine, T., Petretto, M. & **Ezard, T.H.G.** (2016) [Resource partitioning between ungulate populations in arid environments](https://doi.org/10.1002/ece3.2218). *Ecol. Evol.* 6, 6354.
+- **Ezard, T.H.G.** & Purvis, A. (2016) [Environmental changes define ecological limits to species richness and the mode of macroevolutionary competition](https://doi.org/ 10.1111/ele.12626). *Ecol. Lett.*. 19, 899.
+- **Ezard, T.H.G.**, Quental, T.B., & Benton, M.B. (2016) [The challenges to inferring the regulators of biodiversity in deep time](https://doi.org/doi:10.1098/rstb.2015.0216). *Phil. Trans. Roy. Soc. B.* 371, 20150216. 
+  - Introduction to our Theme Issue on [The Regulators of Biodiversity in Deep Time](http://rstb.royalsocietypublishing.org/content/371/1691).
 
 # 2015
 - Spake, R., Ezard, T.H.G., Martin, P.A., Newton, A.C. & Doncaster, C.P. (2015) A meta-analysis of functional group responses to forest recovery outside of the tropics. Cons. Biol. 29, 1695-1703. doi: 10.1111/cobi.12548.
