@@ -5,19 +5,19 @@ Names in bold types indicate lab members for the project.
 # 2020
 - Jakob, K.A., Wilson, P.A., Pross, J., **Ezard, T.H.G.**, Fiebig, J., Repschläger, J. & Friedrich, O. (2020) [A new sea-level record for the Neogene/Quaternary boundary reveals transition to a more stable East Antarctic Ice Sheet](https://doi.org/10.1073/pnas.2004209117). *Proc Natl Acad Sci USA* 117, 30980.
 - **Rillo, M.C.**, Miller, C.G., Kucera, M. & **Ezard, T.H.G.** (2020) [Intraspecific size variation in planktonic foraminifera cannot be consistently predicted by the environment](https://doi.org/10.1002/ece3.6792). *Ecol. & Evol.* 10, 11579.
-- **Ezard, T.H.G.** (2020) [Book Review: Biodemography: An introduction to concepts and methods by Carey & Roach](https://doi.org/10.1002/bimj.202000177). Biometrical Journal 62, 1359.
+- **Ezard, T.H.G.** (2020) [Book Review: Biodemography: An introduction to concepts and methods by Carey & Roach](https://doi.org/10.1002/bimj.202000177). *Biometrical Journal* 62, 1359.
 - **Zhang, W., Ezard, T.H.G., Searle-Barnes, A., Brombacher, A.**, Katsamenis, O. & Nixon, M.S. (2020) [Towards Understanding Speciation By Automated Extraction And Description Of 3d Foraminifera Stacks](https://doi.org/10.1109/SSIAI49293.2020.909461). *2020 IEEE Southwest Symposium on Image Analysis and Interpretation*, 30.
 - Che-Castaldo, J., Jones, O.R., 13 others including **Ezard, T.H.G.** & Salguero-Gómez, R. (2020) [Comments to “Persistent problems in the construction of matrix population models”](https://doi.org/10.1016/j.ecolmodel.2019.108913). *Ecol. Model*. 416, 108913.
 
 # 2019
-- Rillo, M.C., Sugawara, M.T.C., Cabella, B., Jonkers, L., Baranowski, U.K., Kucera M, & Ezard, T.H.G.. (2019). On the mismatch in the strength of competition among fossil and modern species of planktonic foraminifera. Global Ecol. Biogeog.. 28, 1866-1878. doi: 10.1111/geb.13000
-- Healy, K., Ezard, T.H.G., Jones, O.R., Salguero-Gómez, R. & Buckley, Y.M. (2019) Animal life history is shaped by the pace of life and distribution of age-specific mortality and reproduction Nature Ecol. Evol. 3, 127-1224. doi: 10.1038/s41559-019-0938-7.
-- Rillo, M.C., Kucera, M., Ezard, T.H.G. & Miller, C.G. (2019) Surface Sediment Samples From Early Age of Seafloor Exploration Can Provide a Late 19th Century Baseline of the Marine Environment Frontiers Marine Sci 5, 517. doi: 10.3389/fmars.2018.00517
+- **Rillo, M.C.**, Sugawara, M.T.C., Cabella, B., Jonkers, L., Baranowski, U.K., Kucera M, & **Ezard, T.H.G.**. (2019). [On the mismatch in the strength of competition among fossil and modern species of planktonic foraminifera](https://doi.org/10.1111/geb.13000). *Global Ecol. Biogeog.* 28, 1866.
+- Healy, K., **Ezard, T.H.G.**, Jones, O.R., Salguero-Gómez, R. & Buckley, Y.M. (2019) [Animal life history is shaped by the pace of life and distribution of age-specific mortality and reproduction](https://doi.org/10.1038/s41559-019-0938-7) *Nature Ecol. Evol.* 3, 1217.
+- **Rillo, M.C.**, Kucera, M., **Ezard, T.H.G.** & Miller, C.G. (2019) [Surface Sediment Samples From Early Age of Seafloor Exploration Can Provide a Late 19th Century Baseline of the Marine Environment](https://doi.org/10.3389/fmars.2018.00517) *Frontiers Marine Sci* 5, 517. 
 
 # 2018
-- Brombacher, A., Wilson, P.A., Bailey, I. & Ezard, T.H.G. (2018) Temperature is a poor proxy for synergistic climate forcing of plankton evolution. Proc. Roy. Soc. B 285, 20180665. doi: 10.1098/rspb.2018.0665.
-- Brombacher, A., Elder,  L.E., Hull, P.M., Wilson, P.A. & Ezard, T.H.G. (2018) Calibration of test diameter and area as proxies for body size in the planktonic foraminifer Globoconella puncticulata. J. Foram. Res. 48, 241-245. doi: 10.2113/gsjfr.48.3.241.
-- Nicol-Harper A., Dooley C.A., Packman D., Mueller, M., Bijak, J., Hodgson, D.J., Townley S. & Ezard T.H.G. (2018) Inferring transient dynamics of human populations from non-normality metrics. Popul. Ecol. 60, 1-12. doi: 10.1007/s10144-018-0620-y.
+- **Brombacher, A.**, Wilson, P.A., Bailey, I. & **Ezard, T.H.G.** (2018) [Temperature is a poor proxy for synergistic climate forcing of plankton evolution](https://doi.org/10.1098/rspb.2018.0665). *Proc. Roy. Soc. B* 285, 20180665.
+- **Brombacher, A.**, Elder,  L.E., Hull, P.M., Wilson, P.A. & **Ezard, T.H.G.** (2018) [Calibration of test diameter and area as proxies for body size in the planktonic foraminifer *Globoconella puncticulata*](https://doi.org/10.2113/gsjfr.48.3.241). *J. Foram. Res.* 48, 241.
+- **Nicol-Harper A., Dooley C.A.**, Packman D., Mueller, M., Bijak, J., Hodgson, D.J., Townley S. & **Ezard T.H.G.** (2018) [Inferring transient dynamics of human populations from non-normality metrics](https://doi.org/10.1007/s10144-018-0620-y). *Popul. Ecol.* 60, 1.
 
 # 2017
 - Edgar, K.M., Hull, P.M. & Ezard, T.H.G. (2017) Evolutionary history biases inferences of ecology and environment from δ13C but not δ18O values. Nature Comms doi: 10.1038/s41467-017-01154-7. R code and data compilations on FigShare.
