@@ -6,9 +6,9 @@
 [![](/images/lorna_thumbnail.png)](https://www.southampton.ac.uk/oes/postgraduate/research_students/lk2u16.page "Lorna Kearns PhD Student") 
 [![](/images/anh_thumbnail.png)](https://www.southampton.ac.uk/oes/postgraduate/research_students/anh1n18.page "Alex Nicol-Harper PhD Student") 
 [![](/images/asb_thumbnail.png)](https://www.southampton.ac.uk/oes/about/staff/cjsb1c17.page "Alex Searle-Barnes Research Technician") 
-[![](/images/omar_thumbnail.png)](https://www.southampton.ac.uk/oes/about/staff/cjsb1c17.page "Omar Shetta Senior Research Fellow") 
+[![](/images/omar_pic_thumb.jpg)](https://www.southampton.ac.uk/oes/about/staff/cjsb1c17.page "Omar Shetta Senior Research Fellow") 
 [![](/images/chloe_thumbnail.png)](https://www.southampton.ac.uk/oes/postgraduate/research_students/clct1n19.page "Chloe Todd PhD Student") 
-[![](/images/sizhe_thumbnail.png)](https://www.southampton.ac.uk/oes/postgraduate/research_students/clct1n19.page "Sizhe Yuen PhD Student") 
+[![](/images/sizhe.jpeg)](https://www.southampton.ac.uk/oes/postgraduate/research_students/clct1n19.page "Sizhe Yuen PhD Student") 
 
 
 <!--- then keep all similar images on the same line --->
