@@ -37,16 +37,20 @@ Names in bold types indicate lab members for the project.
   - Introduction to our Theme Issue on [The Regulators of Biodiversity in Deep Time](http://rstb.royalsocietypublishing.org/content/371/1691).
 
 # 2015
-- Spake, R., Ezard, T.H.G., Martin, P.A., Newton, A.C. & Doncaster, C.P. (2015) A meta-analysis of functional group responses to forest recovery outside of the tropics. Cons. Biol. 29, 1695-1703. doi: 10.1111/cobi.12548.
-- Ezard, T.H.G., Edgar, K.M. & Hull, P.M. (2015) Environmental and biological controls on size-specific δ13C and δ18O in recent planktonic foraminifera. Paleooceanography 30, 151–173. doi: 10.1002/2014PA002735. R code and data compilations on FigShare.
-- Jørgensen, P.S., Barraquand, F., Bonhomme, V., Curran, T.J., Cieraad, E., Ezard T.H.G., Gheradi, L.A., Hayes, R.A., Poisot, T., Salguero-Gómez, R., DeSoto, L., Swartz, B., Talbot, J.M., Wee, B. & Zimmerman, N. (2015). Connecting people and ideas from around the world: Global innovation platforms for next-generation ecology and beyond. Ecosphere 6:art68. doi: 10.1890/ES14-00198.1.
+- Spake, R., **Ezard, T.H.G.**, Martin, P.A., Newton, A.C. & Doncaster, C.P. (2015) [A meta-analysis of functional group responses to forest recovery outside of the tropics](https://doi.org/10.1111/cobi.12548). *Cons. Biol.* 29, 1695.
+- **Ezard, T.H.G.**, Edgar, K.M. & Hull, P.M. (2015) [Environmental and biological controls on size-specific δ13C and δ18O in recent planktonic foraminifera](https://doi.org/10.1002/2014PA002735). Paleooceanography 30, 151. 
+  - [R code and data compilations on FigShare](https://doi.org/10.6084/m9.figshare.5048854.v1).
+- Jørgensen, P.S. and 14 others including **Ezard T.H.G.** (2015). [Connecting people and ideas from around the world: Global innovation platforms for next-generation ecology and beyond](https://doi.org/10.1890/ES14-00198.1). Ecosphere 6:art68.
 
 # 2014
-- Prizak, R., Ezard, T.H.G. & Hoyle, R.B. (2014). Fitness consequences of maternal and grandmaternal effects. Ecol. Evol. 4, 3139–3145. doi: 10.1002/ece3.1150. MATLAB simulation routines on figshare.
-- Barraquand, F. Ezard, T.H.G., Joergensen, P., Zimmerman, N., Chamberlain, S.A., Salguero-Gómez, R., Curran, T.J. & Poisot, T. (2014) Lack of quantitative training among early-career ecologists: a survey of the problem and potential solutions. PeerJ 2:e285. doi: 10.7717/peerj.285
-- Ezard, T.H.G., Prizak, R. & Hoyle, R.B. (2014). The fitness implications of adaptation via phenotypic plasticity and maternal effects. Func. Ecol. 28, 693–701. doi: 10.1111/1365-2435.12207. MATLAB simulation routines on figshare.
-- Seddon, A.W.R., Mackay, A.W., Baker, A.G., 32 others, then Ezard, T.H.G. & then another 33 others (2014) Looking forward through the past. Identification of fifty priority research questions in palaeoecology. J. Ecol.. 102, 256-267. doi: 10.1111/1365-2745.12195.
-- Pearson, P.N. & Ezard, T.H.G. (2014) Evolution and speciation in the Eocene planktonic foraminifer Turborotalia. Paleobiology. 40, 130-143. doi: 10.1666/13004. Supporting material (data, movies, additional figures) on figshare.
+- Prizak, R., **Ezard, T.H.G.** & Hoyle, R.B. (2014). [Fitness consequences of maternal and grandmaternal effects](https://doi.org/10.1002/ece3.1150). *Ecol. Evol.* 4, 3139.
+  - [MATLAB simulation routines on figshare](http://dx.doi.org/10.6084/m9.figshare.894438).
+- Barraquand, F. **Ezard, T.H.G.**, Joergensen, P., Zimmerman, N., Chamberlain, S.A., Salguero-Gómez, R., Curran, T.J. & Poisot, T. (2014) [Lack of quantitative training among early-career ecologists: a survey of the problem and potential solutions](https://doi.org/10.7717/peerj.285). *PeerJ* 2:e285.
+- **Ezard, T.H.G.**, Prizak, R. & Hoyle, R.B. (2014). [The fitness implications of adaptation via phenotypic plasticity and maternal effects](https://doi.org/10.1111/1365-2435.12207). *Func. Ecol.* 28, 693. 
+  - [MATLAB simulation routines on figshare](http://dx.doi.org/10.6084/m9.figshare.894438).
+- Seddon, A.W.R., Mackay, A.W., Baker, A.G., 32 others, then **Ezard, T.H.G.** & then another 33 others (2014) [Looking forward through the past: Identification of fifty priority research questions in palaeoecology](https://doi.org/10.1111/1365-2745.12195). *J. Ecol.*. 102, 256.
+- Pearson, P.N. & **Ezard, T.H.G.** (2014) [Evolution and speciation in the Eocene planktonic foraminifer Turborotalia](https://doi.org/10.1666/13004). *Paleobiology*. 40, 130. 
+  - [Supporting material (data, movies, additional figures) on figshare](http://dx.doi.org/10.6084/m9.figshare.793840).
 
 # 2012-2013
 - Ezard, T.H.G., Thomas, G.H. & Purvis, A. (2013) Inclusion of a near-complete fossil record reveals speciation-related molecular evolution. Methods Ecol. Evol. 4, 745-753. doi: 10.1111/2041-210X.12089. Supporting Information (all phylogenies & data) via figshare. Daily Mail and Guardian Higher Education Network press coverage.
