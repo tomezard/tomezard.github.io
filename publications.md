@@ -5,7 +5,7 @@ Names in bold types indicate lab members for the project.
 ## 2020
 - Jakob, K.A., Wilson, P.A., Pross, J., **Ezard, T.H.G.**, Fiebig, J., Repschläger, J. & Friedrich, O. (2020) [A new sea-level record for the Neogene/Quaternary boundary reveals transition to a more stable East Antarctic Ice Sheet](https://doi.org/10.1073/pnas.2004209117). *Proc Natl Acad Sci USA* 117, 30980.
 - **Rillo, M.C.**, Miller, C.G., Kucera, M. & **Ezard, T.H.G.** (2020) [Intraspecific size variation in planktonic foraminifera cannot be consistently predicted by the environment](https://doi.org/10.1002/ece3.6792). *Ecol. & Evol.* 10, 11579.
-- **Ezard, T.H.G.** (2020) [Book Review: Biodemography: An introduction to concepts and methods by Carey & Roach](https://doi.org/10.1002/bimj.202000177). *Biometrical Journal* 62, 1359.
+- **Ezard, T.H.G.** (2020) [Book Review: Biodemography: An introduction to concepts and methods by Carey & Roach](https://doi.org/10.1002/bimj.202000177). *Biom. J.* 62, 1359.
 - **Zhang, W., Ezard, T.H.G., Searle-Barnes, A., Brombacher, A.**, Katsamenis, O. & Nixon, M.S. (2020) [Towards Understanding Speciation By Automated Extraction And Description Of 3d Foraminifera Stacks](https://doi.org/10.1109/SSIAI49293.2020.909461). *2020 IEEE Southwest Symposium on Image Analysis and Interpretation*, 30.
 - Che-Castaldo, J., Jones, O.R., 13 others including **Ezard, T.H.G.** & Salguero-Gómez, R. (2020) [Comments to “Persistent problems in the construction of matrix population models”](https://doi.org/10.1016/j.ecolmodel.2019.108913). *Ecol. Model*. 416, 108913.
 
