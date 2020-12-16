@@ -4,7 +4,7 @@
 [![](/images/tom_thumbnail.jpg)](https://www.southampton.ac.uk/oes/about/staff/te1e12.page "Tom Ezard, PI") 
 [![](/images/lorna_thumbnail.png)](https://www.southampton.ac.uk/oes/postgraduate/research_students/lk2u16.page "Lorna Kearns, PhD Student") 
 [![](/images/anh_thumbnail.png)](https://www.southampton.ac.uk/oes/postgraduate/research_students/anh1n18.page "Alex Nicol-Harper, PhD Student") 
-[![](/images/jasmine_th.png)](https://www.southampton.ac.uk/biosci/about/staff/jms1r19.page "Jasmine Saban, Senior Research Fellow") 
+[![](/images/jasmine_th.jpg)](https://www.southampton.ac.uk/biosci/about/staff/jms1r19.page "Jasmine Saban, Senior Research Fellow") 
 [![](/images/asb_thumbnail.png)](https://www.southampton.ac.uk/oes/about/staff/cjsb1c17.page "Alex Searle-Barnes, Research Technician") 
 [![](/images/omar_pic_thumb.jpg)](https://www.southampton.ac.uk/oes/about/staff/cjsb1c17.page "Omar Shetta, Senior Research Fellow") 
 [![](/images/chloe_thumbnail.png)](https://www.southampton.ac.uk/oes/postgraduate/research_students/clct1n19.page "Chloe Todd, PhD Student") 
