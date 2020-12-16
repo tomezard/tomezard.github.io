@@ -3,10 +3,15 @@ We are interested in how the structure of populations and communities interacts 
 
 ## The bridge from micro- to macroevolution 
 The emergence of new species is controlled by the link between environmental cues and organismal responses during life, but the contrasting temporal and biological scales involved create major problems for empirical study. As a consequence, the role of developmental plasticity during the emergence of new species is poorly understood. The University of Southampton has a [cluster of activity](https://www.southampton.ac.uk/life-sciences/living-systems/evolution/index.page#related_projects) in this area. We lead projects that leverage the mature fossil phylogeny, unprecedented geochemical understanding and astonishing temporal resolution of planktonic foraminifera. We consider this system an ideal window into processes that many groups of organisms experienced historically, but which are not preserved in enough abundance for analysis. The [PISTON](https://www.southampton.ac.uk/oes/research/projects/piston-does-developmental-plasticity-influence-speciation.page) project will stimulate further development of theoretical models of speciation by providing the first empirical tests of key assumptions that underpin important areas of macroevolutionary theory, community ecology and palaeoclimate reconstruction.
+
+![A computer vision reconstructed foraminifer](/images/chamber_contours_all.jpg_SIA_JPG_fit_to_width_INLINE.jpg)
+
+## Scaling ecological dynamics across individuals, populations and ecosystems
+Within-species adaptation (microevolution) and the formation, survival and proliferation of new species (macroevolution) depend upon a distinctive set of traits that characterise individuals of a particular species. Attempts to understand evolution usually take each trait on its own, however. This isolation leaves a fundamentally incomplete picture of the processes that drive diversification because it neglects how individual form constrains the response to selection. 
+
 ![A single planktonic foraminifer](/images/1JB7741_th500.jpg)
 
-## Scaling
+## Demography for conservation and life history evolution
+I am a member of the science/core committee for the [COMPADRE](https://compadre-db.org/) database project to create a global open-access database of matrix population models for  animals and plants and to facilitate its use for scientific and teaching purposes. These databases are a repository of demographic data from (mostly) published literature. As the number of published matrix population models (MPMs) grows, so do the opportunities to ask exciting questions about plant and animal demography, ecology, and evolution at a global and cross-taxonomic scale. At Southampton, we have focussed on expanding the taxonomic remit to include human MPMs. The current release now includes a further 1,120 human matrices, developed [here](https://link.springer.com/article/10.1007/s10144-018-0620-y) to study the transient dynamics of European populations. Current activities are led by [Alex Nicol-Harper](https://www.southampton.ac.uk/oes/postgraduate/research_students/anh1n18.page) working with the [Wildfowl and Wetlands Trust](https://www.wwt.org.uk/) to use MPMs to investigate the relationships between vital rates and population growth rates.
 
-## Life history evolution
-
-## Seaduck conservation
+![A male common eider © Greg Schechter (CC BY 2.0)](/images/maleeider.jpg)
