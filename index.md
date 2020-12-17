@@ -4,4 +4,4 @@ We are a [research group](https://tomezard.github.io/team) associated with [Tom 
 
 If our research portfolio interests you, I'm always happy to hear from researchers wishing to either develop independent fellowship proposals or to join us as prospective PhD candidates who might seek funding through our [INSPIRE](https://inspire-dtp.ac.uk/) Doctoral Training Programme. This year we are searching for a PhD candidate to explore [how species emerge](https://noc.ac.uk/gsnocs/project/how-do-species-emerge). I will link to funded opportunities here when they are available. 
 
-Please do get in touch with me at t.ezard (at) soton (dot) ac (dot) uk. I'm on [twitter](https://twitter.com/tomezard) too.
+Please do get in touch with me at t.ezard (at) soton (dot) ac (dot) uk. I'm on [Twitter](https://twitter.com/tomezard) too.
