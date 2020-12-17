@@ -27,9 +27,9 @@
 - [Sizhe Yuen](https://uk.linkedin.com/in/sizhe), PhD Student.
 
 ## Alumni
-- Wenshu Zhang (2020): was Post-Doctoral Research Fellow; went on to Lectureship in Computer Game Development at Cardiff Metropolitan University.
-- Marina Rillo (2019): was PhD student, went on to PDRF at University of Oldenburg.
+- [Wenshu Zhang](https://uk.linkedin.com/in/wenshu-zhang-21138a83) (2020): was Post-Doctoral Research Fellow; went on to Lectureship in Computer Game Development at Cardiff Metropolitan University.
+- [Marina Rillo](https://mcrillo.github.io/) (2019): was PhD student, went on to PDRF at University of Oldenburg.
 - Ollie White (2019): was PhD student, went on to PDRF at Natural History Museum and then Queen Mary University of London.
-- Claire Dooley (2017): was Post-Doctoral Research Fellow, went on to PDRF with the WorldPop group.
+- [Claire Dooley](https://www.southampton.ac.uk/geography/about/staff/cad1c14.page) (2017): was Post-Doctoral Research Fellow, went on to PDRF with the WorldPop group.
 - Anna Zincenko (2016): was Research Technician (2015), went on to PhD student at the University of Leicester.
-- Rob Cooke (2015): was Research Technician, went on to PhD student at the University of Southampton & IUCN Antelope Specialist Group Project Officer at Marwell Zoo.
+- [Rob Cooke](https://scholar.google.co.uk/citations?user=im7qCmwAAAAJ&hl=en) (2015): was Research Technician, went on to PhD student at the University of Southampton & IUCN Antelope Specialist Group Project Officer at Marwell Zoo.
