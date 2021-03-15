@@ -3,7 +3,7 @@
 Names in bold types indicate lab members for the project.
 
 ## 2021
-- Jones, O.R., **Ezard, T.H.G.**, **Dooley. C.**, Healy, K., Hodgson, D.J., Mueller, M., Townley, S. & Salguero-Gomez, R. (2021) [My family and other animals: Human demography under a comparative cross-species lens](https://osf.io/ehp92/). In *Human Evolutionary Demography* edited by Oskar Burger, Ron Lee and Rebecca Sear. Published by the Center for Open Science.
+- Jones, O.R., **Ezard, T.H.G.**, **Dooley. C.A.**, Healy, K., Hodgson, D.J., Mueller, M., Townley, S. & Salguero-Gomez, R. (2021) [My family and other animals: Human demography under a comparative cross-species lens](https://osf.io/ehp92/). In *Human Evolutionary Demography* edited by Oskar Burger, Ron Lee and Rebecca Sear. Published by the Center for Open Science.
 
 ## 2020
 - Jakob, K.A., Wilson, P.A., Pross, J., **Ezard, T.H.G.**, Fiebig, J., Repschläger, J. & Friedrich, O. (2020) [A new sea-level record for the Neogene/Quaternary boundary reveals transition to a more stable East Antarctic Ice Sheet](https://doi.org/10.1073/pnas.2004209117). *Proc Natl Acad Sci USA* 117, 30980.
