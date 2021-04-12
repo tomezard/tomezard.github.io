@@ -32,7 +32,7 @@ Names in bold types indicate lab members for the project.
 
 ## 2016
 - **Cooke, R.S.C.**, Woodfine, T., Petretto, M. & **Ezard, T.H.G.** (2016) [Resource partitioning between ungulate populations in arid environments](https://doi.org/10.1002/ece3.2218). *Ecol. Evol.* 6, 6354.
-- **Ezard, T.H.G.** & Purvis, A. (2016) [Environmental changes define ecological limits to species richness and the mode of macroevolutionary competition](https://doi.org/ 10.1111/ele.12626). *Ecol. Lett.*. 19, 899.
+- **Ezard, T.H.G.** & Purvis, A. (2016) [Environmental changes define ecological limits to species richness and the mode of macroevolutionary competition](https://doi.org/10.1111/ele.12626). *Ecol. Lett.*. 19, 899.
 - **Ezard, T.H.G.**, Quental, T.B., & Benton, M.B. (2016) [The challenges to inferring the regulators of biodiversity in deep time](https://doi.org/doi:10.1098/rstb.2015.0216). *Phil. Trans. Roy. Soc. B.* 371, 20150216. Introduction to our Theme Issue on [The Regulators of Biodiversity in Deep Time](http://rstb.royalsocietypublishing.org/content/371/1691).
 
 ## 2015
