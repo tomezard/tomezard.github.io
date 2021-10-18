@@ -3,7 +3,8 @@
 Names in bold types indicate lab members for the project.
 
 ## 2021
-- Fabbrini, A., Zaminga, I., **Ezard, T.H.G.** & Wade, B.S. (in press) Systematic Taxonomy of middle Miocene *Sphaeroidinellopsis* (planktonic foraminifera). Journal of Systematic Palaeontology.
+- **Nicol-Harper, A.**, Wood, K., Diamond, T., Major, H., Petersen, A., Tertitski, G., Doncaster, C.P., **Ezard, T.H.G.**, Hilton, G. (in press). Vital rate estimates for the common eider *Somateria mollissima*, a data-rich exemplar of the seaduck tribe. *Ecol Solut Evidence*
+- Fabbrini, A., Zaminga, I., **Ezard, T.H.G.** & Wade, B.S. (in press) Systematic Taxonomy of middle Miocene *Sphaeroidinellopsis* (planktonic foraminifera). *J Syst Palaeont*.
 - **Kearns, L.E.**, Bohaty, S.M., Edgar, K., Nogue, S., **Ezard, T.H.G.** (2021). [Searching for function: Reconstructing adaptive niche changes using geochemical and morphological data in planktonic Foraminifera](https://www.frontiersin.org/articles/10.3389/fevo.2021.679722/abstract). *Front. Ecol. Evol.*. doi: 10.3389/fevo.2021.679722
 - **Brombacher, J.F.A.**, Wilson, P.A., Bailey, I. & **Ezard, T.H.G.** (2021). [The Dynamics of Diachronous Extinction Associated With Climatic Deterioration Near the Neogene/Quaternary Boundary](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2020PA004205). *Paleoceanography and Paleoclimatology*, 36, e2020PA004205
 - Jones, O.R., **Ezard, T.H.G.**, **Dooley. C.A.**, Healy, K., Hodgson, D.J., Mueller, M., Townley, S. & Salguero-Gomez, R. (2021) [My family and other animals: Human demography under a comparative cross-species lens](https://osf.io/ehp92/). In *Human Evolutionary Demography* edited by Oskar Burger, Ron Lee and Rebecca Sear. Published by the Center for Open Science.
