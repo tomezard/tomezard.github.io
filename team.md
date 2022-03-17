@@ -21,16 +21,15 @@
 - [James Mulqueeny](https://www.southampton.ac.uk/oes/postgraduate/research_students/jmm1e21.page), PhD Student.
 - [Alex Nicol-Harper](https://www.southampton.ac.uk/oes/postgraduate/research_students/anh1n18.page), PhD Student.
 - [Alex Searle-Barnes](https://www.southampton.ac.uk/oes/about/staff/cjsb1c17.page), Research Technician.
-- [Omar Shetta](https://www.researchgate.net/profile/Omar_Shetta), Senior Research Fellow.
 - [Chloe Todd](https://www.southampton.ac.uk/oes/postgraduate/research_students/clct1n19.page), PhD Student.
 - [Sizhe Yuen](https://uk.linkedin.com/in/sizhe), PhD Student.
 
 ## Alumni
-- Omar Shetta: was Post-Doctoral Research Fellow; now working in Software Development.
+- [Omar Shetta](https://uk.linkedin.com/in/omar-shetta-phd-b038341a6?trk=people-guest_people_search-card): was Post-Doctoral Research Fellow; now working in Software Development.
 - [Jasmine Saban](https://www.southampton.ac.uk/biosci/about/staff/jms1r19.page): was Post-Doctoral Research Fellow; went on maternity leave.
 - [Wenshu Zhang](https://uk.linkedin.com/in/wenshu-zhang-21138a83) (2020): was Post-Doctoral Research Fellow; went on to Lectureship in Computer Game Development at Cardiff Metropolitan University.
 - [Marina Rillo](https://mcrillo.github.io/) (2019): was PhD student, went on to PDRF at University of Oldenburg.
-- Ollie White (2019): was PhD student, went on to PDRF at Natural History Museum and then Queen Mary University of London.
+- [Ollie White](https://scholar.google.com/citations?user=-NvhOR4AAAAJ&hl=en) (2019): was PhD student, went on to PDRF at Natural History Museum and then Queen Mary University of London.
 - [Claire Dooley](https://www.southampton.ac.uk/geography/about/staff/cad1c14.page) (2017): was Post-Doctoral Research Fellow, went on to PDRF with the WorldPop group.
 - Anna Zincenko (2016): was Research Technician (2015), went on to PhD student at the University of Leicester.
 - [Rob Cooke](https://scholar.google.co.uk/citations?user=im7qCmwAAAAJ&hl=en) (2015): was Research Technician, went on to PhD student at the University of Southampton & IUCN Antelope Specialist Group Project Officer at Marwell Zoo.
