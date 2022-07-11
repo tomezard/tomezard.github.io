@@ -1,8 +1,8 @@
 ## Team
 
-[![](/images/anieke_thumbnail.png)](https://www.southampton.ac.uk/oes/about/staff/jfab1c17.page "Anieke Brombacher ,Senior Research Fellow") 
+[![](/images/anieke_thumbnail.png)](https://www.southampton.ac.uk/oes/about/staff/jfab1c17.page "Anieke Brombacher, Senior Research Fellow") 
 [![](/images/tom_thumbnail.jpg)](https://www.southampton.ac.uk/oes/about/staff/te1e12.page "Tom Ezard, PI") 
-[![](/images/lorna_thumbnail.png)](https://www.southampton.ac.uk/oes/postgraduate/research_students/lk2u16.page "Lorna Kearns, PhD Student") 
+[![](/images/lorna_thumbnail.png)](https://www.researchgate.net/scientific-contributions/Di-Meng-2161912435 "Di Meng, Senior Research Fellow") 
 [![](/images/jm_thumbnail.png)](https://www.southampton.ac.uk/oes/postgraduate/research_students/jmm1e21.page "James Mulqueeny, PhD Student") 
 [![](/images/anh_thumbnail.png)](https://www.southampton.ac.uk/oes/postgraduate/research_students/anh1n18.page "Alex Nicol-Harper, PhD Student") 
 [![](/images/asb_thumbnail.png)](https://www.southampton.ac.uk/oes/about/staff/cjsb1c17.page "Alex Searle-Barnes, Research Technician") 
@@ -16,8 +16,7 @@
 
 - [Anieke Brombacher](https://www.southampton.ac.uk/oes/about/staff/jfab1c17.page), Senior Research Fellow. [Personal Site](https://aniekebrombacher.wordpress.com/).
 - [Tom Ezard](https://www.southampton.ac.uk/oes/about/staff/te1e12.page), Professor of Evolutionary Ecology.
-- [Lorna Kearns](https://www.southampton.ac.uk/oes/postgraduate/research_students/lk2u16.page), PhD Student.
-- Di Meng: Senior Research Fellow.
+- [Di Meng](https://www.researchgate.net/scientific-contributions/Di-Meng-2161912435), Senior Research Fellow.
 - [James Mulqueeny](https://www.southampton.ac.uk/oes/postgraduate/research_students/jmm1e21.page), PhD Student.
 - [Alex Nicol-Harper](https://www.southampton.ac.uk/oes/postgraduate/research_students/anh1n18.page), PhD Student.
 - [Alex Searle-Barnes](https://www.southampton.ac.uk/oes/about/staff/cjsb1c17.page), Research Technician.
@@ -25,6 +24,7 @@
 - [Sizhe Yuen](https://uk.linkedin.com/in/sizhe), PhD Student.
 
 ## Alumni
+- [Lorna Kearns](https://www.southampton.ac.uk/oes/postgraduate/research_students/lk2u16.page): was PhD Student; moving on to Post-Doctoral Research Fellow at UT Austin.
 - [Omar Shetta](https://uk.linkedin.com/in/omar-shetta-phd-b038341a6?trk=people-guest_people_search-card): was Post-Doctoral Research Fellow; now working in Software Development.
 - [Jasmine Saban](https://www.southampton.ac.uk/biosci/about/staff/jms1r19.page): was Post-Doctoral Research Fellow; went on maternity leave.
 - [Wenshu Zhang](https://uk.linkedin.com/in/wenshu-zhang-21138a83) (2020): was Post-Doctoral Research Fellow; went on to Lectureship in Computer Game Development at Cardiff Metropolitan University.
