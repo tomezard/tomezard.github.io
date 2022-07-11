@@ -2,7 +2,7 @@
 
 [![](/images/anieke_thumbnail.png)](https://www.southampton.ac.uk/oes/about/staff/jfab1c17.page "Anieke Brombacher, Senior Research Fellow") 
 [![](/images/tom_thumbnail.jpg)](https://www.southampton.ac.uk/oes/about/staff/te1e12.page "Tom Ezard, PI") 
-[![](/images/di_thumbnail.jpg)](https://www.researchgate.net/scientific-contributions/Di-Meng-2161912435 "Di Meng, Senior Research Fellow") 
+[![](/images/di_thumbnail.JPG)](https://www.researchgate.net/scientific-contributions/Di-Meng-2161912435 "Di Meng, Senior Research Fellow") 
 [![](/images/jm_thumbnail.png)](https://www.southampton.ac.uk/oes/postgraduate/research_students/jmm1e21.page "James Mulqueeny, PhD Student") 
 [![](/images/anh_thumbnail.png)](https://www.southampton.ac.uk/oes/postgraduate/research_students/anh1n18.page "Alex Nicol-Harper, PhD Student") 
 [![](/images/asb_thumbnail.png)](https://www.southampton.ac.uk/oes/about/staff/cjsb1c17.page "Alex Searle-Barnes, Research Technician") 
