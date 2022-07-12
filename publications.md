@@ -71,7 +71,7 @@ Names in bold types indicate lab members for the project.
 - **Ezard, T.H.G.** & Coulson, T. (2010). [How sensitive are elasticities of long-run stochastic growth to how environmental variability is modelled?](https://doi.org/10.1016/j.ecolmodel.2009.09.017) *Ecol. Model.* 221, 191.
 
 ## 2008-2009
-- **Ezard, T.H.G.** & Purvis, A. (2009) [paleoPhylo: free software to draw paleobiological phylogenies](https://doi.org/0.1666/0094-8373-35.3.460). *Paleobiology* 35, 460.
+- **Ezard, T.H.G.** & Purvis, A. (2009) [paleoPhylo: free software to draw paleobiological phylogenies](https://www.cambridge.org/core/journals/paleobiology/article/paleophylo-free-software-to-draw-paleobiological-phylogenies/D98BF3B420A495F581203916A939117E). *Paleobiology* 35, 460.
 - **Ezard, T.H.G.**, Côté, S.D. & Pelletier, F. (2009). [Eco-evolutionary dynamics: disentangling phenotypic, environmental and population fluctuations](https://doi.org/ 10.1098/rstb.2009.0006). *Phil. Trans. R. Soc. Lond. B* 364, 1491.
 - **Ezard, T.H.G.**, Gaillard, J.-M., Crawley, M.J. & Coulson, T. (2008) [Habitat dependence and correlations between elasticities of long-term growth rates](https://doi.org/10.1086/589897). *Am. Nat.* 172: 424. [Bright Club Guildford](http://youtube.com/watch?v=wc4RQXlaqs4) reworking as a stand-up comedy set.
 - Coulson, T., **Ezard, T.H.G.**, Pelletier, F., Stenseth, N.C., Pilkington, J. Pemberton, J.M., Kruuk, L.E.B., Clutton-Brock, T.H. & Crawley, M. (2008) [Estimating the functional form for the density dependence from life history data](https://doi.org/10.1890/07-1099.1). *Ecology* 89: 1664.
