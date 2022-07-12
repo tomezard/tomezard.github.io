@@ -3,7 +3,9 @@
 Names in bold types indicate lab members for the project.
 
 ## 2022
-- Bataillon, T., **Ezard, T.H.G.**, Kopp, M. & Masel, J. (2022) Genetics of adaptation & fitness landscapes: from toy models to testable quantitative predictions. *Evolution*
+- **Brombacher, J.F.A.**, Schmidt, D. & **Ezard, T.H.G.** (in press) Developmental plasticity in deep time: a window to population ecological inference. *Paleobiology*
+- **Kearns, L.E.**, Bohaty, S.M., Edgar, K., **Ezard, T.H.G.** (in press) Small but mighty: how overlooked small species maintain community structure through middle Eocene climate change. *Paleobiology*
+- Bataillon, T., **Ezard, T.H.G.**, Kopp, M. & Masel, J. (2022) [Genetics of adaptation & fitness landscapes: from toy models to testable quantitative predictions](https://doi.org/10.1111/evo.14477). *Evolution* doi: 10.1111/evo.14477
 
 ## 2021
 - **Nicol-Harper, A.**, Wood, K., Diamond, T., Major, H., Petersen, A., Tertitski, G., Doncaster, C.P., **Ezard, T.H.G.**, Hilton, G. (2021). [Vital rate estimates for the common eider *Somateria mollissima*, a data-rich exemplar of the seaduck tribe]( https://doi.org/10.1002/2688-8319.12108). *Ecol Solut Evidence* 2, e12108.
