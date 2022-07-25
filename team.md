@@ -24,9 +24,9 @@
 - [Sizhe Yuen](https://uk.linkedin.com/in/sizhe), PhD Student.
 
 ## Alumni
-- [Lorna Kearns](https://www.southampton.ac.uk/oes/postgraduate/research_students/lk2u16.page): was PhD Student; moving on to Post-Doctoral Research Fellow at UT Austin.
-- [Omar Shetta](https://uk.linkedin.com/in/omar-shetta-phd-b038341a6?trk=people-guest_people_search-card): was Post-Doctoral Research Fellow; now working in Software Development.
-- [Jasmine Saban](https://www.southampton.ac.uk/biosci/about/staff/jms1r19.page): was Post-Doctoral Research Fellow; went on maternity leave.
+- [Lorna Kearns](https://www.southampton.ac.uk/oes/postgraduate/research_students/lk2u16.page) (2022): was PhD Student; moving on to Post-Doctoral Research Fellow at UT Austin.
+- [Omar Shetta](https://uk.linkedin.com/in/omar-shetta-phd-b038341a6?trk=people-guest_people_search-card) (2021): was Post-Doctoral Research Fellow; now working in Software Development.
+- [Jasmine Saban](https://www.southampton.ac.uk/biosci/about/staff/jms1r19.page) (2021): was Post-Doctoral Research Fellow; went on maternity leave.
 - [Wenshu Zhang](https://uk.linkedin.com/in/wenshu-zhang-21138a83) (2020): was Post-Doctoral Research Fellow; went on to Lectureship in Computer Game Development at Cardiff Metropolitan University.
 - [Marina Rillo](https://mcrillo.github.io/) (2019): was PhD student, went on to PDRF at University of Oldenburg.
 - [Ollie White](https://scholar.google.com/citations?user=-NvhOR4AAAAJ&hl=en) (2019): was PhD student, went on to PDRF at Natural History Museum and then Queen Mary University of London.
