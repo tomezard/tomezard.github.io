@@ -3,7 +3,7 @@
 Names in bold types indicate lab members for the project.
 
 ## 2022
-- **Kearns, L.E.**, Bohaty, S.M., Edgar, K., **Ezard, T.H.G.** (in press) Small but mighty: how overlooked small species maintain community structure through middle Eocene climate change. *Paleobiology*
+- **Kearns, L.E.**, Bohaty, S.M., Edgar, K., **Ezard, T.H.G.** (online) [Small but mighty: how overlooked small species maintain community structure through middle Eocene climate change](https://doi.org/10.1017/pab.2022.24). *Paleobiology*
 - **Brombacher, J.F.A.**, Schmidt, D. & **Ezard, T.H.G.** (online) [Developmental plasticity in deep time: a window to population ecological inference](https://doi.org/10.1017/pab.2022.26). *Paleobiology*
 - Bataillon, T., **Ezard, T.H.G.**, Kopp, M. & Masel, J. (2022) [Genetics of adaptation & fitness landscapes: from toy models to testable quantitative predictions](https://doi.org/10.1111/evo.14477). *Evolution* doi: 10.1111/evo.14477
 
