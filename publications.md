@@ -2,10 +2,13 @@
 
 Names in bold types indicate lab members for the project.
 
+## 2023
+- **Saban, J**, **Romero, A**, **Ezard, T.H.G.** and Chapman, M. (accepted) Extensive crop-wild hybridisation during Brassica evolution, and selection during the domestication and diversification of Brassica crops. *Genetics*
+
 ## 2022
-- **Brombacher, J.F.A.**, **Searle-Barnes, A.**, **Zhang, W.**, & **Ezard, T.H.G.** (online) [Analysing planktonic foraminiferal growth in three dimensions with foram3D: an R package for automated trait measurements from CT scans](https://doi.org/10.5194/jm-41-149-2022). *J. Micropal.*
-- **Kearns, L.E.**, Bohaty, S.M., Edgar, K., **Ezard, T.H.G.** (online) [Small but mighty: how overlooked small species maintain community structure through middle Eocene climate change](https://doi.org/10.1017/pab.2022.24). *Paleobiology*
-- **Brombacher, J.F.A.**, Schmidt, D. & **Ezard, T.H.G.** (online) [Developmental plasticity in deep time: a window to population ecological inference](https://doi.org/10.1017/pab.2022.26). *Paleobiology*
+- **Brombacher, J.F.A.**, **Searle-Barnes, A.**, **Zhang, W.**, & **Ezard, T.H.G.** (2022) [Analysing planktonic foraminiferal growth in three dimensions with foram3D: an R package for automated trait measurements from CT scans](https://doi.org/10.5194/jm-41-149-2022). *J. Micropal.*  41, 149.
+- **Kearns, L.E.**, Bohaty, S.M., Edgar, K., **Ezard, T.H.G.** (2022) [Small but mighty: how overlooked small species maintain community structure through middle Eocene climate change](https://doi.org/10.1017/pab.2022.24). *Paleobiology* 1-22. doi: 10.1017/pab.2022.24
+- **Brombacher, J.F.A.**, Schmidt, D. & **Ezard, T.H.G.** (2022) [Developmental plasticity in deep time: a window to population ecological inference](https://doi.org/10.1017/pab.2022.26). *Paleobiology* 1-12. doi: 10.1017/pab.2022.26
 - Bataillon, T., **Ezard, T.H.G.**, Kopp, M. & Masel, J. (2022) [Genetics of adaptation & fitness landscapes: from toy models to testable quantitative predictions](https://doi.org/10.1111/evo.14477). *Evolution* doi: 10.1111/evo.14477
 
 ## 2021
