@@ -22,7 +22,7 @@
 - [Sizhe Yuen](https://uk.linkedin.com/in/sizhe), PhD Student.
 
 ## Alumni
-- [Di Meng](https://www.researchgate.net/scientific-contributions/Di-Meng-2161912435) (2022), was Senior Research Fellow, now a Lecturer in Computer Science at [Anhui University of Technology](https://en.ahut.edu.cn/).
+- [Di Meng](https://www.researchgate.net/scientific-contributions/Di-Meng-2161912435) (2022): was Senior Research Fellow, now a Lecturer in Computer Science at [Anhui University of Technology](https://en.ahut.edu.cn/).
 - [Lorna Kearns](https://www.southampton.ac.uk/oes/postgraduate/research_students/lk2u16.page) (2022): was PhD Student; moving on to Post-Doctoral Research Fellow at UT Austin.
 - [Omar Shetta](https://uk.linkedin.com/in/omar-shetta-phd-b038341a6?trk=people-guest_people_search-card) (2021): was Post-Doctoral Research Fellow; now working in Software Development.
 - [Jasmine Saban](https://www.southampton.ac.uk/biosci/about/staff/jms1r19.page) (2021): was Post-Doctoral Research Fellow; went on maternity leave.
