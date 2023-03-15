@@ -1,6 +1,5 @@
 ## Team
 
-[![](/images/anieke_thumbnail.png)](https://www.southampton.ac.uk/oes/about/staff/jfab1c17.page "Anieke Brombacher, Senior Research Fellow") 
 [![](/images/tom_thumbnail.jpg)](https://www.southampton.ac.uk/oes/about/staff/te1e12.page "Tom Ezard, PI") 
 [![](/images/jm_thumbnail.png)](https://www.southampton.ac.uk/oes/postgraduate/research_students/jmm1e21.page "James Mulqueeny, PhD Student") 
 [![](/images/anh_thumbnail.png)](https://www.southampton.ac.uk/oes/postgraduate/research_students/anh1n18.page "Alex Nicol-Harper, PhD Student") 
@@ -13,15 +12,15 @@
 
 <!--- Some text as a test  E: t.ezard (at) soton.ac.uk.<\br>  T: [@tomezard](https://https://twitter.com/tomezard).  G: [Github](https://github.com/tomezard)  [Google Scholar](https://scholar.google.co.uk/citations?user=I18b4BYAAAAJ&hl=en) \I am an interested in how the structure of populations and communities interacts with environmental changes to determine ecological and evolutionary dynamics. To do this, I develop the interface between mathematical and statistical models and test them using data drawn from various modern and palaeontological systems. --->
 
-- [Anieke Brombacher](https://www.southampton.ac.uk/oes/about/staff/jfab1c17.page), Senior Research Fellow. [Personal Site](https://aniekebrombacher.wordpress.com/).
 - [Tom Ezard](https://www.southampton.ac.uk/oes/about/staff/te1e12.page), Professor of Evolutionary Ecology.
 - [James Mulqueeny](https://www.southampton.ac.uk/oes/postgraduate/research_students/jmm1e21.page), PhD Student.
 - [Alex Nicol-Harper](https://www.southampton.ac.uk/oes/postgraduate/research_students/anh1n18.page), PhD Student.
 - [Alex Searle-Barnes](https://www.southampton.ac.uk/oes/about/staff/cjsb1c17.page), Research Technician.
-- [Chloe Todd](https://www.southampton.ac.uk/oes/postgraduate/research_students/clct1n19.page), PhD Student.
+- [Chloe Jones](https://www.southampton.ac.uk/oes/postgraduate/research_students/clct1n19.page), PhD Student.
 - [Sizhe Yuen](https://uk.linkedin.com/in/sizhe), PhD Student.
 
 ## Alumni
+- [Anieke Brombacher](https://aniekebrombacher.wordpress.com/) (2023): was PhD Student and Senior Research Fellow, now a Senior Research Fellow at Yale.
 - [Di Meng](https://www.researchgate.net/scientific-contributions/Di-Meng-2161912435) (2022): was Senior Research Fellow, now a Lecturer in Computer Science at [Anhui University of Technology](https://en.ahut.edu.cn/).
 - [Lorna Kearns](https://www.southampton.ac.uk/oes/postgraduate/research_students/lk2u16.page) (2022): was PhD Student; moving on to Post-Doctoral Research Fellow at UT Austin.
 - [Omar Shetta](https://uk.linkedin.com/in/omar-shetta-phd-b038341a6?trk=people-guest_people_search-card) (2021): was Post-Doctoral Research Fellow; now working in Software Development.
