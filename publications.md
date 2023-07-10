@@ -3,9 +3,13 @@
 Names in bold types indicate lab members for the project.
 
 ## 2023
-- **Brombacher, A.**, Wilson, P.A., Bailey, I. & **Ezard, T.H.G.** (in press) [Morphological variation across space does not predict phenotypic change through time in two Neogene planktonic foraminifera species](https://www.frontiersin.org/articles/10.3389/fevo.2023.1165174/abstract). *Frontiers Ecol. Evol.*
-- **Kearns, L.E.**, **Searle-Barnes, A**, Foster, G.L., Milton, J.A., Standish, C.D., & **Ezard, T.H.G.** (online) [The influence of geochemical variation among *Globigerinoides ruber* individuals on paleoceanographic reconstructions](https://doi.org/10.1029/2022PA004549). *Paleoceanogr. Paleoclimatol.* 
-- **Saban, J**, **Romero, A**, **Ezard, T.H.G.** & Chapman, M. (in press) [Extensive crop-wild hybridisation during Brassica evolution, and selection during the domestication and diversification of Brassica crops](https://doi.org/10.1093/genetics/iyad027). *Genetics*
+- **Nicol-Harper, A.**, Doncaster, C.P., Wood, K., Hilton, G. & **Ezard, T.H.G.** (in press) Conservation implications of a mismatch between data availability and demographic impact. *Ecol. & Evol.*.
+- Gascoigne, S.J.L., 38 others including **Ezard, T.H.G.** & Salguero-Gomez, R. (online) [A standard protocol to report discrete stage-structured demographic information](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/2041-210X.14164). *Methods. Ecol. Evol.* doi: 10.1111/2041-210X.14164.
+- **Searle-Barnes, A**, Milton, J.A., Standish, C.D., Foster, G.L. & **Ezard, T.H.G.** (2023) [Laser ablation mass spectrometry blast through detection in R](https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/full/10.1002/rcm.9533). *Rapid Comms. Mass. Spec.* 37, e9533. doi: 10.1002/rcm.9533. [R package](https://cran.r-project.org/web/packages/lablaster/index.html).
+- **Yuen, S.**, **Ezard, T.H.G.** & Sobey, A.J. (2023) [Epigenetic opportunities for evolutionary computation](https://royalsocietypublishing.org/doi/full/10.1098/rsos.221256) . *Roy. Soc. Open Sci.* 10, doi: 10.1098/rsos.221256.
+- **Brombacher, A.**, Wilson, P.A., Bailey, I. & **Ezard, T.H.G.** (2023) [Morphological variation across space does not predict phenotypic change through time in two Neogene planktonic foraminifera species](https://www.frontiersin.org/articles/10.3389/fevo.2023.1165174/abstract). *Frontiers Ecol. Evol.* doi: 10.3389/fevo.2023.1165174.
+- **Kearns, L.E.**, **Searle-Barnes, A**, Foster, G.L., Milton, J.A., Standish, C.D., & **Ezard, T.H.G.** (2023) [The influence of geochemical variation among *Globigerinoides ruber* individuals on paleoceanographic reconstructions](https://doi.org/10.1029/2022PA004549). *Paleoceanogr. Paleoclimatol.* 38, e2022PA004549. doi: 10.1029/2022PA004549.
+- **Saban, J**, **Romero, A**, **Ezard, T.H.G.** & Chapman, M. (2023) [Extensive crop-wild hybridisation during Brassica evolution, and selection during the domestication and diversification of Brassica crops](https://doi.org/10.1093/genetics/iyad027). *Genetics* 4, iyad027. doi: 10.1093/genetics/iyad027.
 
 ## 2022
 - **Brombacher, J.F.A.**, **Searle-Barnes, A.**, **Zhang, W.**, & **Ezard, T.H.G.** (2022) [Analysing planktonic foraminiferal growth in three dimensions with foram3D: an R package for automated trait measurements from CT scans](https://doi.org/10.5194/jm-41-149-2022). *J. Micropal.*  41, 149.
