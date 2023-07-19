@@ -3,7 +3,9 @@
 Names in bold types indicate lab members for the project.
 
 ## 2023
-- **Nicol-Harper, A.**, Doncaster, C.P., Wood, K., Hilton, G. & **Ezard, T.H.G.** (in press) Conservation implications of a mismatch between data availability and demographic impact. *Ecol. & Evol.*.
+- Avrutin, S., Goodwin, P.A. & **Ezard, T.H.G.** (in press) Assessing the Remaining Carbon Budget through the Lens of Policy-Driven Acidification and Temperature Targets. *Climatic Change*.
+- **Nicol-Harper, A.**, Doncaster, C.P., Wood, K., Hilton, G. & **Ezard, T.H.G.** (2023) [Conservation implications of a mismatch between data availability and demographic impact](http://doi.org/10.1002/ece3.10269
+). *Ecol. & Evol.*. doi: 10.1002/ece3.10269.
 - Gascoigne, S.J.L., 38 others including **Ezard, T.H.G.** & Salguero-Gomez, R. (online) [A standard protocol to report discrete stage-structured demographic information](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/2041-210X.14164). *Methods. Ecol. Evol.* doi: 10.1111/2041-210X.14164.
 - **Searle-Barnes, A**, Milton, J.A., Standish, C.D., Foster, G.L. & **Ezard, T.H.G.** (2023) [Laser ablation mass spectrometry blast through detection in R](https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/full/10.1002/rcm.9533). *Rapid Comms. Mass. Spec.* 37, e9533. doi: 10.1002/rcm.9533. [R package](https://cran.r-project.org/web/packages/lablaster/index.html).
 - **Yuen, S.**, **Ezard, T.H.G.** & Sobey, A.J. (2023) [Epigenetic opportunities for evolutionary computation](https://royalsocietypublishing.org/doi/full/10.1098/rsos.221256) . *Roy. Soc. Open Sci.* 10, doi: 10.1098/rsos.221256.
