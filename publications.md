@@ -3,7 +3,8 @@
 Names in bold types indicate lab members for the project.
 
 ## 2023
-- Avrutin, S., Goodwin, P.A. & **Ezard, T.H.G.** (in press) Assessing the Remaining Carbon Budget through the Lens of Policy-Driven Acidification and Temperature Targets. *Climatic Change*.
+- Fabbrini, A., Greco, M., Iacoviello, F., Kucera, M., **Ezard, T.H.G.** and Wade, B.S. (2023) [Bridging the extant and fossil record of planktonic foraminifera: implications for the *Globigerina* lineage](https://onlinelibrary.wiley.com/doi/full/10.1111/pala.12676). *Paleontology* e12676. doi: 10.1111/pala.12676.
+- Avrutin, S., Goodwin, P.A. & **Ezard, T.H.G.** (2023) [Assessing the Remaining Carbon Budget through the Lens of Policy-Driven Acidification and Temperature Targets](http://dx.doi.org/10.1007/s10584-023-03587-0). *Climatic Change*, 176, 128.
 - **Nicol-Harper, A.**, Doncaster, C.P., Wood, K., Hilton, G. & **Ezard, T.H.G.** (2023) [Conservation implications of a mismatch between data availability and demographic impact](http://doi.org/10.1002/ece3.10269
 ). *Ecol. & Evol.*. doi: 10.1002/ece3.10269.
 - Gascoigne, S.J.L., 38 others including **Ezard, T.H.G.** & Salguero-Gomez, R. (online) [A standard protocol to report discrete stage-structured demographic information](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/2041-210X.14164). *Methods. Ecol. Evol.* doi: 10.1111/2041-210X.14164.
