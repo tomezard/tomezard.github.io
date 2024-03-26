@@ -3,7 +3,6 @@
 [![](/images/tom_thumbnail.jpg)](https://www.southampton.ac.uk/oes/about/staff/te1e12.page "Tom Ezard, PI") 
 [![](/images/chloe_thumbnail.png)](https://www.southampton.ac.uk/oes/postgraduate/research_students/clct1n19.page "Chloe Todd, PhD Student") 
 [![](/images/jm_thumbnail.png)](https://www.southampton.ac.uk/oes/postgraduate/research_students/jmm1e21.page "James Mulqueeny, PhD Student") 
-[![](/images/anh_thumbnail.png)](https://www.southampton.ac.uk/oes/postgraduate/research_students/anh1n18.page "Alex Nicol-Harper, PhD Student") 
 [![](/images/sizhe.jpeg)](https://www.southampton.ac.uk/oes/postgraduate/research_students/clct1n19.page "Sizhe Yuen, PhD Student") 
 
 
@@ -15,10 +14,10 @@
 - [Chloe Jones](https://www.southampton.ac.uk/oes/postgraduate/research_students/clct1n19.page), PhD Student.
 - [Huahua Lin](https://uk.linkedin.com/in/huahua-lin-62b2ba221), PhD Student
 - [James Mulqueeny](https://www.southampton.ac.uk/oes/postgraduate/research_students/jmm1e21.page), PhD Student.
-- [Alex Nicol-Harper](https://www.southampton.ac.uk/oes/postgraduate/research_students/anh1n18.page), PhD Student.
 - [Sizhe Yuen](https://uk.linkedin.com/in/sizhe), PhD Student.
 
 ## Alumni
+- [Alex Nicol-Harper](https://www.southampton.ac.uk/oes/postgraduate/research_students/anh1n18.page) (2024): was Research Technician then PhD Student, now [Principal Research Officer at the Wildfowl and Wetlands Trust](https://www.wwt.org.uk/our-work/wetland-conservation-unit/meet-the-team/alex-nicol-harper/).
 - [Alex Searle-Barnes](https://www.southampton.ac.uk/oes/about/staff/cjsb1c17.page) (2023): was Research Technician, now Data Manager at the National Oceanography Centre.
 - [Anieke Brombacher](https://aniekebrombacher.wordpress.com/) (2023): was PhD Student and Senior Research Fellow, now a Senior Research Fellow at Yale.
 - [Di Meng](https://www.researchgate.net/scientific-contributions/Di-Meng-2161912435) (2022): was Senior Research Fellow, now a Lecturer in Computer Science at [Anhui University of Technology](https://en.ahut.edu.cn/).
