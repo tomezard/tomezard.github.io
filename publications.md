@@ -2,8 +2,12 @@
 
 Names in bold types indicate lab members for the project.
 
+## 2024
+- **Mulqueeney, J., Searle-Barnes, A., Brombacher, A., Sweeney, M.**, Goswami, A. & **Ezard T.H.G.** (in press) How many specimens make a sufficient training set for automated 3D feature extraction? *Open Science*.
+- **Brombacher, A.**, Poole, C.R., **Ezard, T.H.G.** & Wade, B.S. (in press) Heterochrony in the evolution of the planktonic foraminifera Trilobatus sacculifer plexus. *Paleobiology*.
+
 ## 2023
-- Fabbrini, A., Greco, M., Iacoviello, F., Kucera, M., **Ezard, T.H.G.** and Wade, B.S. (2023) [Bridging the extant and fossil record of planktonic foraminifera: implications for the *Globigerina* lineage](https://onlinelibrary.wiley.com/doi/full/10.1111/pala.12676). *Paleontology* e12676. doi: 10.1111/pala.12676.
+- Fabbrini, A., Greco, M., Iacoviello, F., Kucera, M., **Ezard, T.H.G.** & Wade, B.S. (2023) [Bridging the extant and fossil record of planktonic foraminifera: implications for the *Globigerina* lineage](https://onlinelibrary.wiley.com/doi/full/10.1111/pala.12676). *Paleontology* e12676. doi: 10.1111/pala.12676.
 - Avrutin, S., Goodwin, P.A. & **Ezard, T.H.G.** (2023) [Assessing the Remaining Carbon Budget through the Lens of Policy-Driven Acidification and Temperature Targets](http://dx.doi.org/10.1007/s10584-023-03587-0). *Climatic Change*, 176, 128.
 - **Nicol-Harper, A.**, Doncaster, C.P., Wood, K., Hilton, G. & **Ezard, T.H.G.** (2023) [Conservation implications of a mismatch between data availability and demographic impact](http://doi.org/10.1002/ece3.10269
 ). *Ecol. & Evol.*. doi: 10.1002/ece3.10269.
