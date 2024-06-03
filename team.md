@@ -12,7 +12,7 @@
 
 - [Tom Ezard](https://www.southampton.ac.uk/oes/about/staff/te1e12.page), Professor of Evolutionary Ecology.
 - [Chloe Jones](https://www.southampton.ac.uk/oes/postgraduate/research_students/clct1n19.page), PhD Student.
-- [Huahua Lin](https://uk.linkedin.com/in/huahua-lin-62b2ba221), PhD Student
+- [Huahua Lin](https://www.southampton.ac.uk/people/5yslfd/miss-huahua-lin), PhD Student
 - [James Mulqueeny](https://www.southampton.ac.uk/oes/postgraduate/research_students/jmm1e21.page), PhD Student.
 - [Sizhe Yuen](https://uk.linkedin.com/in/sizhe), PhD Student.
 
