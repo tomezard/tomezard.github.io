@@ -3,8 +3,10 @@
 Names in bold types indicate lab members for the project.
 
 ## 2024
+- Stott, I, Salguero-Gomez, R., Jones, O.R., **Ezard, T.H.G.**, Gamelon, M., Lachish, S., Lebreton, J.-D., Simmonds, E.G., Gaillard, J.-M. \& Hodgson, D.J. (in press) Species are more than fast or slow. *Trends Ecol. Evol.*.
 - **Mulqueeney, J., Searle-Barnes, A., Brombacher, A., Sweeney, M.**, Goswami, A. & **Ezard T.H.G.** (in press) How many specimens make a sufficient training set for automated 3D feature extraction? *Open Science*.
 - **Brombacher, A.**, Poole, C.R., **Ezard, T.H.G.** & Wade, B.S. (in press) Heterochrony in the evolution of the planktonic foraminifera Trilobatus sacculifer plexus. *Paleobiology*.
+- Jones, O.R., **Ezard, T.H.G.**, **Dooley. C.A.**, Healy, K., Hodgson, D.J., Mueller, M., Townley, S. & Salguero-Gomez, R. (2024) [My family and other animals: Human demography under a comparative cross-species lens](https://www.openbookpublishers.com/books/10.11647/obp.0251/chapters/10.11647/obp.0251.09). In *Human Evolutionary Demography* edited by Oskar Burger, Ron Lee and Rebecca Sear. Published by the Center for Open Science. pp. 211-232.
 
 ## 2023
 - Fabbrini, A., Greco, M., Iacoviello, F., Kucera, M., **Ezard, T.H.G.** & Wade, B.S. (2023) [Bridging the extant and fossil record of planktonic foraminifera: implications for the *Globigerina* lineage](https://onlinelibrary.wiley.com/doi/full/10.1111/pala.12676). *Paleontology* e12676. doi: 10.1111/pala.12676.
@@ -29,7 +31,6 @@ Names in bold types indicate lab members for the project.
 - Fabbrini, A., Zaminga, I., **Ezard, T.H.G.** & Wade, B.S. (2021) [Systematic Taxonomy of middle Miocene *Sphaeroidinellopsis* (planktonic foraminifera)](https://doi.org/10.1080/14772019.2021.1991500). *J Syst Palaeont* 19, 953-968.
 - **Kearns, L.E.**, Bohaty, S.M., Edgar, K., Nogue, S., **Ezard, T.H.G.** (2021). [Searching for function: Reconstructing adaptive niche changes using geochemical and morphological data in planktonic Foraminifera](https://www.frontiersin.org/articles/10.3389/fevo.2021.679722/abstract). *Front. Ecol. Evol.*. doi: 10.3389/fevo.2021.679722
 - **Brombacher, J.F.A.**, Wilson, P.A., Bailey, I. & **Ezard, T.H.G.** (2021). [The Dynamics of Diachronous Extinction Associated With Climatic Deterioration Near the Neogene/Quaternary Boundary](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2020PA004205). *Paleoceanography and Paleoclimatology*, 36, e2020PA004205
-- Jones, O.R., **Ezard, T.H.G.**, **Dooley. C.A.**, Healy, K., Hodgson, D.J., Mueller, M., Townley, S. & Salguero-Gomez, R. (2021) [My family and other animals: Human demography under a comparative cross-species lens](https://osf.io/ehp92/). In *Human Evolutionary Demography* edited by Oskar Burger, Ron Lee and Rebecca Sear. Published by the Center for Open Science.
 
 ## 2020
 - Jakob, K.A., Wilson, P.A., Pross, J., **Ezard, T.H.G.**, Fiebig, J., Repschläger, J. & Friedrich, O. (2020) [A new sea-level record for the Neogene/Quaternary boundary reveals transition to a more stable East Antarctic Ice Sheet](https://doi.org/10.1073/pnas.2004209117). *Proc Natl Acad Sci USA* 117, 30980.
