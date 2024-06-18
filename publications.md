@@ -1,6 +1,6 @@
 # Publications
 
-Names in bold types indicate lab members for the project.
+Names in bold types indicate lab members for the project. My [Google Scholar profile is here](https://scholar.google.com/citations?user=I18b4BYAAAAJ&hl=en).
 
 ## 2024
 - Stott, I, Salguero-Gomez, R., Jones, O.R., **Ezard, T.H.G.**, Gamelon, M., Lachish, S., Lebreton, J.-D., Simmonds, E.G., Gaillard, J.-M. & Hodgson, D.J. (in press) Species are more than fast or slow. *Trends Ecol. Evol.*.
