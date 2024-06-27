@@ -5,7 +5,7 @@ Names in bold types indicate lab members for the project.
 My [Google Scholar profile is here](https://scholar.google.com/citations?user=I18b4BYAAAAJ&hl=en).
 
 ## 2024
-- **Lin, H., Zhang, W., Mulqueeney, J.M., Brombacher, A., Searle-Barnes, A.**, Nixon,M.S., Cai,X. and **Ezard, T.H.G.** (in press) 3DKMI: A MATLAB Package to Generate Shape Signatures from Krawtchouk Moments. *Methods. Ecol. Evol.*
+- **Lin, H., Zhang, W., Mulqueeney, J.M., Brombacher, A., Searle-Barnes, A.**, Nixon, M.S., Cai, X. and **Ezard, T.H.G.** (in press) 3DKMI: A MATLAB Package to Generate Shape Signatures from Krawtchouk Moments. *Methods. Ecol. Evol.*
 - Stott, I, Salguero-Gomez, R., Jones, O.R., **Ezard, T.H.G.**, Gamelon, M., Lachish, S., Lebreton, J.-D., Simmonds, E.G., Gaillard, J.-M. & Hodgson, D.J. (in press) Species are more than fast or slow. *Trends Ecol. Evol.*.
 - **Brombacher, A.**, Poole, C.R., **Ezard, T.H.G.** & Wade, B.S. (in press) Heterochrony in the evolution of the planktonic foraminifera Trilobatus sacculifer plexus. *Paleobiology*.
 - **Mulqueeney, J., Searle-Barnes, A., Brombacher, A., Sweeney, M.**, Goswami, A. & **Ezard T.H.G.** (2024) [How many specimens make a sufficient training set for automated 3D feature extraction?](https://doi.org/10.1098/rsos.240113) *Open Science* **11**. doi: 10.1098/rsos.240113
