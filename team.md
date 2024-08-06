@@ -20,7 +20,7 @@
 ## Alumni
 - [Alex Nicol-Harper](https://www.southampton.ac.uk/oes/postgraduate/research_students/anh1n18.page) (2024): was Research Technician then PhD Student, now [Principal Research Officer at the Wildfowl and Wetlands Trust](https://www.wwt.org.uk/our-work/wetland-conservation-unit/meet-the-team/alex-nicol-harper/).
 - [Alex Searle-Barnes](https://www.southampton.ac.uk/oes/about/staff/cjsb1c17.page) (2023): was Research Technician, now Data Manager at the National Oceanography Centre.
-- [Anieke Brombacher](https://aniekebrombacher.wordpress.com/) (2023): was PhD Student and Senior Research Fellow, now a Senior Research Fellow at Yale.
+- [Anieke Brombacher](https://aniekebrombacher.wordpress.com/) (2023): was PhD Student and Senior Research Fellow, then a Senior Research Fellow at Yale and now a Research Scientist at the National Oceanography Centre.
 - [Di Meng](https://www.researchgate.net/scientific-contributions/Di-Meng-2161912435) (2022): was Senior Research Fellow, now a Lecturer in Computer Science at [Anhui University of Technology](https://en.ahut.edu.cn/).
 - [Lorna Kearns](https://www.southampton.ac.uk/oes/postgraduate/research_students/lk2u16.page) (2022): was PhD Student; moving on to Post-Doctoral Research Fellow at UT Austin.
 - [Omar Shetta](https://uk.linkedin.com/in/omar-shetta-phd-b038341a6?trk=people-guest_people_search-card) (2021): was Post-Doctoral Research Fellow; now working in Software Development.
@@ -30,5 +30,5 @@
 - [Marina Rillo](https://mcrillo.github.io/) (2019): was PhD student, went on to PDRF at University of Oldenburg.
 - [Ollie White](https://scholar.google.com/citations?user=-NvhOR4AAAAJ&hl=en) (2019): was PhD student, went on to PDRF at Natural History Museum and then Queen Mary University of London.
 - [Claire Dooley](https://www.southampton.ac.uk/geography/about/staff/cad1c14.page) (2017): was Post-Doctoral Research Fellow, went on to PDRF with the WorldPop group.
-- Anna Zincenko (2016): was Research Technician (2015), went on to PhD student at the University of Leicester.
+- [Anna Zincenko](https://researchportal.bath.ac.uk/en/persons/anna-daupare) (2016): was Research Technician (2015), went on to PhD student at the University of Leicester and then Lecturer (Teaching) at the University of Bath.
 - [Rob Cooke](https://scholar.google.co.uk/citations?user=im7qCmwAAAAJ&hl=en) (2015): was Research Technician, went on to PhD student at the University of Southampton & IUCN Antelope Specialist Group Project Officer at Marwell Zoo.
