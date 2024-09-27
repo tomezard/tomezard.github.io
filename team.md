@@ -1,6 +1,6 @@
 ## Team
 
-[![](/images/tom_thumbnail.jpg)](https://www.southampton.ac.uk/oes/about/staff/te1e12.page "Tom Ezard, PI") 
+[![](/images/20230406_150523_tom_thumbnail.jpg)](https://www.southampton.ac.uk/oes/about/staff/te1e12.page "Tom Ezard, PI") 
 [![](/images/chloe_thumbnail.png)](https://www.southampton.ac.uk/oes/postgraduate/research_students/clct1n19.page "Chloe Todd, PhD Student") 
 [![](/images/huahua_thumbnail.png)](https://www.southampton.ac.uk/people/5yslfd/miss-huahua-lin "Huahua Lin, PhD Student") 
 [![](/images/jm_thumbnail.png)](https://www.southampton.ac.uk/oes/postgraduate/research_students/jmm1e21.page "James Mulqueeny, PhD Student") 
