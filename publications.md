@@ -2,7 +2,7 @@
 
 Names in bold types indicate lab members for the project. 
 
-My [Google Scholar profile is here](https://scholar.google.com/citations?user=I18b4BYAAAAJ&hl=en).
+Tom's [Google Scholar profile is here](https://scholar.google.com/citations?user=I18b4BYAAAAJ&hl=en).
 
 ## 2024
 - **Brombacher, A.**, Poole, C.R., **Ezard, T.H.G.** & Wade, B.S. (in press) Heterochrony in the evolution of the planktonic foraminifera Trilobatus sacculifer plexus. *Paleobiology*.
