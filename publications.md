@@ -1,6 +1,6 @@
 # Publications
 
-Names in bold types indicate lab members for the project. 
+Names in **bold** indicate lab members; <ins>underlined</ins> names were undergraduate project students.
 
 Tom's [Google Scholar profile is here](https://scholar.google.com/citations?user=I18b4BYAAAAJ&hl=en).
 
@@ -9,7 +9,7 @@ Tom's [Google Scholar profile is here](https://scholar.google.com/citations?user
 - **Brombacher, A.**, Poole, C.R., **Ezard, T.H.G.** & Wade, B.S. (in press) Heterochrony in the evolution of the planktonic foraminifera Trilobatus sacculifer plexus. *Paleobiology*.
 - **Lin, H., Zhang, W., Mulqueeney, J.M., Brombacher, A., Searle-Barnes, A.**, Nixon, M.S., Cai, X. and **Ezard, T.H.G.** (online) [3DKMI: A MATLAB Package to Generate Shape Signatures from Krawtchouk Moments](https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210X.14388). *Methods. Ecol. Evol.*
 - Stott, I, Salguero-Gomez, R., Jones, O.R., **Ezard, T.H.G.**, Gamelon, M., Lachish, S., Lebreton, J.-D., Simmonds, E.G., Gaillard, J.-M. & Hodgson, D.J. (2024) [Life histories not just fast or slow](https://doi.org/10.1016/j.tree.2024.06.001). *Trends Ecol. Evol.*.
-- **Mulqueeney, J., Searle-Barnes, A., Brombacher, A., Sweeney, M.**, Goswami, A. & **Ezard T.H.G.** (2024) [How many specimens make a sufficient training set for automated 3D feature extraction?](https://doi.org/10.1098/rsos.240113) *Open Science* **11**. doi: 10.1098/rsos.240113
+- **Mulqueeney, J., Searle-Barnes, A., Brombacher, A., <ins>Sweeney, M.</ins>**, Goswami, A. & **Ezard T.H.G.** (2024) [How many specimens make a sufficient training set for automated 3D feature extraction?](https://doi.org/10.1098/rsos.240113) *Open Science* **11**. doi: 10.1098/rsos.240113
 - Jones, O.R., **Ezard, T.H.G.**, **Dooley. C.A.**, Healy, K., Hodgson, D.J., Mueller, M., Townley, S. & Salguero-Gomez, R. (2024) [My family and other animals: Human demography under a comparative cross-species lens](https://www.openbookpublishers.com/books/10.11647/obp.0251/chapters/10.11647/obp.0251.09). In *Human Evolutionary Demography* edited by Oskar Burger, Ron Lee and Rebecca Sear. Published by the Center for Open Science. pp. 211-232.
 
 ## 2023
