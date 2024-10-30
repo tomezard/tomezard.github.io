@@ -5,8 +5,9 @@ Names in **bold** indicate lab members; <ins>underlined</ins> names were undergr
 Tom's [Google Scholar profile is here](https://scholar.google.com/citations?user=I18b4BYAAAAJ&hl=en).
 
 ## 2024
-- **<ins>Wilson, J.C.</ins>**, Wood, K.A., Griffin, L.R., Brides, K., Rees, E.C. and **Ezard, T.H.G.** (in press) Using satellite tracking to assess the use of protected areas and alternative roosts by Whooper and Bewick’s Swans. *Ibis*
+-  **Nicol-Harper, A.**, Doncaster, C.P., Wood, K., Hilton, G. & **Ezard, T.H.G.** (in press) Vital rates of intermittent non-breeders and returning breeders strongly influence population dynamics of the Common Eider. *Ornithology*
 - **Brombacher, A.**, Poole, C.R., **Ezard, T.H.G.** & Wade, B.S. (in press) Heterochrony in the evolution of the planktonic foraminifera Trilobatus sacculifer plexus. *Paleobiology*.
+- **<ins>Wilson, J.C.</ins>**, Wood, K.A., Griffin, L.R., Brides, K., Rees, E.C. and **Ezard, T.H.G.** (online) [Using satellite tracking to assess the use of protected areas and alternative roosts by Whooper and Bewick’s Swans](http://doi.org/10.1111/ibi.13369). *Ibis*
 - **Lin, H., Zhang, W., Mulqueeney, J.M., Brombacher, A., Searle-Barnes, A.**, Nixon, M.S., Cai, X. and **Ezard, T.H.G.** (online) [3DKMI: A MATLAB Package to Generate Shape Signatures from Krawtchouk Moments](https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210X.14388). *Methods. Ecol. Evol.*
 - Stott, I, Salguero-Gomez, R., Jones, O.R., **Ezard, T.H.G.**, Gamelon, M., Lachish, S., Lebreton, J.-D., Simmonds, E.G., Gaillard, J.-M. & Hodgson, D.J. (2024) [Life histories not just fast or slow](https://doi.org/10.1016/j.tree.2024.06.001). *Trends Ecol. Evol.*.
 - **Mulqueeney, J., Searle-Barnes, A., Brombacher, A., <ins>Sweeney, M.</ins>**, Goswami, A. & **Ezard T.H.G.** (2024) [How many specimens make a sufficient training set for automated 3D feature extraction?](https://doi.org/10.1098/rsos.240113) *Open Science* **11**. doi: 10.1098/rsos.240113
