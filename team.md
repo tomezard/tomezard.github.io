@@ -8,7 +8,7 @@
 <!--- then keep all similar images on the same line --->
 
 - [Tom Ezard](https://www.southampton.ac.uk/oes/about/staff/te1e12.page), Professor of Evolutionary Ecology.
-- [Chua-Hsin Hsu](https://www.southampton.ac.uk/people/662tth/mr-chia-hsin-hsu), PhD Student
+- [Chia-Hsin Hsu](https://www.southampton.ac.uk/people/662tth/mr-chia-hsin-hsu), PhD Student
 - [Huahua Lin](https://www.southampton.ac.uk/people/5yslfd/miss-huahua-lin), PhD Student
 
 
