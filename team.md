@@ -1,7 +1,7 @@
 ## Team
 
 [![](/images/20230406_150523_tom_thumb.png)](https://www.southampton.ac.uk/oes/about/staff/te1e12.page "Tom Ezard, PI") 
-[![](/images/chia_hsin_thumbnail.jpg)]([https://www.southampton.ac.uk/oes/postgraduate/research_students/clct1n19.page](https://www.southampton.ac.uk/people/662tth/mr-chia-hsin-hsu) "Chia-Hsin Hsu, PhD Student") 
+[![](/images/chia_hsin_thumbnail.jpg)](https://www.southampton.ac.uk/people/662tth/mr-chia-hsin-hsu "Chia-Hsin Hsu, PhD Student") 
 [![](/images/huahua_thumbnail.png)](https://www.southampton.ac.uk/people/5yslfd/miss-huahua-lin "Huahua Lin, PhD Student") 
 
 
